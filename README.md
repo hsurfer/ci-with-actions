@@ -26,3 +26,5 @@
 ## :books: Resources
 - [GitHub Actions](https://help.github.com/en/actions)
 - [GitHub Learning Lab](https://lab.github.com)
+- [GitHub Lab URL](https://lab.github.com/githubtraining/github-actions:-continuous-integration)
+- [Repo with code for lab](https://github.com/hsurfer/github-actions-for-ci)
